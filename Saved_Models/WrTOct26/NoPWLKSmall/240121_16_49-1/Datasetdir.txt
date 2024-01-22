@@ -1,0 +1,1 @@
+/content/drive/MyDrive/Wireless_Transformer/RefinedNewData/Smalldata100/NewOcpPattern/240121_03_51/Data_SNR-1vol1.pth very small model To find Gap
